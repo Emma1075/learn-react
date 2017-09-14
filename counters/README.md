@@ -11,8 +11,8 @@ npm start
 ```
 
 ## 项目效果
-![counter](https://github.com/Emma1075/learn-react/counters/counter.png)
-
+![counter](/counter.png)
+![JS](https://www.baidu.com/s?tn=baiduhome_pg&rsv_idx=2&wd=javascript&rsv_cq=button+css&rsv_dl=0_right_recom_21121&euri=10b1512f375d4bc098f07725c90bb9b8)
 
 ## 项目介绍
 使用 redux ，分离容器组件与傻瓜组件。
