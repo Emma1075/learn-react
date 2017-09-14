@@ -1,0 +1,46 @@
+.btn {
+	margin: 10px;
+	display: inline-block;
+	background-color: #FEAE1B;
+	border-color: #FEAE1B;
+	color: #FFF;
+	border: none;
+	border-radius: 10px;
+	width: 25px;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	font-weight: bold;
+
+}
+
+.btn:hover {
+	background-color: #fec04e;
+	cursor: pointer;
+}
+
+.wrapper {
+	margin: 0 auto;
+	width: 300px;
+	margin-top: 200px;
+	padding: 20px;
+	border: 2px solid #FEAE1B;
+	border-radius: 5px;
+
+}
+
+.conter-text {
+	margin-left: 10px;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+}
+
+.summary {
+	text-align: right;
+	margin-right: 10px;
+	padding-top: 15px;
+	margin-bottom: -10px;
+	color: #FF4351;
+	font-weight: bold;
+}
