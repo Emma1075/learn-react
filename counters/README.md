@@ -11,7 +11,7 @@ npm start
 ```
 
 ## 项目效果
-![image](https://github.com/Emma1075/learn-react/edit/master/counters/image/counter.png)
+![image](https://github.com/Emma1075/learn-react/edit/master/counters/image/counter.png?raw=true)
 
 
 ## 项目介绍
