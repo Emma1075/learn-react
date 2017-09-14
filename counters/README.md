@@ -12,6 +12,7 @@ npm start
 
 ## 项目效果
 ![image](https://github.com/Emma1075/learn-react/edit/master/counters/counter.png)
+![image](http://github.com/itmyhome2013/readme_add_pic/raw/master/images/nongshalie.jpg)
 
 ## 项目介绍
 使用 redux ，分离容器组件与傻瓜组件。
